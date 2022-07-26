@@ -1,2 +1,2 @@
-# Vehicle-Reservation
- MERN Stack/React/Js/CSS
+# vehicle-reservation
+MERN Stack project
